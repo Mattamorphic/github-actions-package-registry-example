@@ -1,0 +1,26 @@
+{
+  "name": "@mattamorphic/conversions",
+  "version": "0.0.1",
+  "description": "Conversions in JS",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha --recursive \\\"src/**/*.test.js\\\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/mattamorphic/furry-eureka.git"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
+  "author": "mattamorphic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattamorphic/furry-eureka/issues"
+  },
+  "homepage": "https://github.com/mattamorphic/furry-eureka#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
