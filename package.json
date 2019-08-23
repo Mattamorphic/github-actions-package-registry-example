@@ -1,6 +1,6 @@
 {
-  "name": "@mattamorphic/furry-eureka",
-  "version": "1.0.0",
+  "name": "@mattamorphic/github-actions-package-registry-example",
+  "version": "1.0.1",
   "description": "GitHub Actions / GPR Testing",
   "main": "src/index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mattamorphic/furry-eureka.git"
+    "url": "git+https://github.com/Mattamorphic/github-actions-package-registry-example.git"
   },
   "author": "Mattamorphic",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Mattamorphic/furry-eureka/issues"
+    "url": "https://github.com/Mattamorphic/github-actions-package-registry-example/issues"
   },
-  "homepage": "https://github.com/Mattamorphic/furry-eureka#readme",
+  "homepage": "https://github.com/Mattamorphic/github-actions-package-registry-example#readme",
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^6.2.0"
